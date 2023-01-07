@@ -1,5 +1,5 @@
 # GIT
-A collection of Git commands that I hardly remember, also tired of searching over the internet anytime I need it.
+A collection of Git commands that I hardly remember, and tired of searching over the internet anytime I need it.
 
 ### Get most recent (latest) active branches
 
