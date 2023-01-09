@@ -10,7 +10,7 @@ git branch --sort=-committerdate
 ### Change commit time
 
 ```
-git commit --amend
+GIT_COMMITTER_DATE="Wed Feb 16 14:00 2011 +0100" git commit --amend --no-edit
 ```
 
 ### Undo most recent commit
