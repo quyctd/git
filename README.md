@@ -27,3 +27,11 @@ git commit -c ORIG_HEAD                      # (4)
 git push -d <remote_name> <branchname>
 git branch -d <branchname>
 ```
+
+### Revert code to specific commit, and create a new commit append to history
+
+```
+git checkout c8defdb .
+git commit -m "NO-ISSUE Revert back to c8defdb"
+git push
+```
